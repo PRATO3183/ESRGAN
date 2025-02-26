@@ -22,3 +22,7 @@ Install deps pip install opencv-python glob2
 # 5. Grab Low Res Image and Run Script 
 Place low res image in LR folder
 Run python test.py
+
+cvGAN\Scripts\activate
+python test.py
+deactivate
